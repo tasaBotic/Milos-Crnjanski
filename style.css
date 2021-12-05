@@ -1,0 +1,23 @@
+body{
+    background: #89D6D9;
+}
+#bijelo{
+    background: #FFFFFF;
+    width: 960px;
+    margin: auto;
+    padding: 20px;
+}
+table,th,td{
+    border: 1px solid #CCCCCC;
+}
+.head{
+    background:#ECE7D7;
+}
+.body{
+    background:#F5F4F2;
+}
+#sivo{
+    background :#DDDDDD;
+    padding:10px;
+   
+}
